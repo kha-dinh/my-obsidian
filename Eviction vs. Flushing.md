@@ -1,0 +1,2 @@
+- Flushing is the act of forcing the cache lines to flush (e.g., using the CLFLUSH instruction) (active)
+- Cache eviction, on the other hand, occur when the the cache is full, so old cache line and need to be  *evicted* to make space for newer data (passive).  There are strategies for eviction in processor, the most common is Least recently used (LRU).

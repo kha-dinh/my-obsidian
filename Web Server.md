@@ -1,0 +1,7 @@
+- A web server is the hardware and software that serve [[HTTP]] requests from clients.
+- Static vs. Dynamic
+	- A *static* web server serves static files
+	- A *dynamic* web server generate the files and serve the client
+- Web servers are usually [[Event-Drivent]]:
+	- On receiving a connection (e.g., event),  a thread is spawned to handle the event (e.g., event handler).
+- Web servers typically only serve files. More complex feature requires an [[Application Server]].

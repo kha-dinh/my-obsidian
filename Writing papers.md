@@ -1,0 +1,5 @@
+* Explain the *rationale* instead of listing the features
+* https://libguides.newcastle.edu.au/writing-paragraphs
+- https://www.cs.tufts.edu/~nr/pubs/two.pdf 
+- https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html
+> Make your writing crisp and to the point. Eliminate any text that does not support your point. Here is one way you might go about this; it is time-consuming but extremely effective. First, examine each section of the paper in turn and ask what role it serves and whether it contributes to the paper's main point. If not, delete it. Next, within each section, examine each paragraph. Ask whether that paragraph has a single point. If not, rewrite the paragraph. Also ask whether that point contributes to the goals of the section. If not, then delete the paragraph. Next, within each paragraph, examine each sentence. If it does not make a single, clear point that strengthens the paragraph, delete or rewrite it. Finally, within each sentence, examine each word, and delete or replace those that do not strengthen their point. You will need to repeat this entire process multiple times, keeping a fresh perspective on the paper.

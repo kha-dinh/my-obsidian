@@ -1,0 +1,8 @@
+- Stands for Hypertext Transfer Protocol. Is an [[Application Layer]] protocol for transmitting documents or media from server to clients.
+- Used for communication between the clients and the [[Web Server]]:
+	- Client sends HTTP requests to request files from the server.
+	- Webserver parse the HTTP request, find or generate the requested file, and send it to the client.
+- HTTP has the characteristics:
+	- Texture: All of the values in HTTP are plaintext and human-readable.
+	- Stateless: Client and server don't have to care about previous or future requests.
+	- Must contain the requested URL of the file.

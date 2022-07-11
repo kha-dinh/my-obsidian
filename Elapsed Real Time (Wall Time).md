@@ -1,0 +1,3 @@
++ Actual time taken by a program / code section, which is different from CPU time, which measure active CPU time. 
+	+ CPU time can be influenced by delays, architecture,...
++ Parallel program have more CPU time than elapsed real time.

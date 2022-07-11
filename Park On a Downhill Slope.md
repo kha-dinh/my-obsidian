@@ -1,0 +1,3 @@
+- Stop midway before resting to give yourself a kickstart the next time you start working
+- Hemingway stop mid sentence/paragraph the day before.
+- Edison write a list of question before going to bed (??) 

@@ -1,0 +1,1 @@
+- All software are defined as a *component*. Each component is sandboxed with [[Fuchsia Capabilities]]

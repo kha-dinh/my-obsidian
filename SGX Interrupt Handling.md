@@ -1,0 +1,3 @@
+- When there is a hardware [[Interrupt]] or [[Exception]] happens inside SGX, the enclave first generate [[Asynchronous Enclave Exit]] before invoking the [[Exception Handler]] of the OS
+- It first safe the enclave's execution state into into the Save State Area, and reset all the registers. Then, the control is transferred to the exception handler.
+- [[SGX Page Fault Handling]] 

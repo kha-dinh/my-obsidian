@@ -1,0 +1,4 @@
+- The interaction between components are defined as capabilities.
+- A component can offers capabilities to other components, and which capabilities are required with in the *component manifest*.
+- Capability is *routed* from a consuming component to the provider. 
+- There are capabilities for: protocol, service, directory, storage, resolver, runner

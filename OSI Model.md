@@ -1,0 +1,1 @@
+- Stands for Open System Interconnection 

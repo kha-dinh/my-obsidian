@@ -1,0 +1,3 @@
+- The attack require shared memory between the attacker and victim. Usually, shared library is used.
+- The attacks exploits share memory loaded into the same cache set. The attacker constantly flush an address inside shared memory ([[clflush]]). After victim's execution, the attacker measure the time to access the address.
+	-  If the access is fast, then the flushed cache line is accessed again by the victim; the location of the accessed address is leaked. 

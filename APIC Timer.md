@@ -1,0 +1,6 @@
+- APIC timer allows [[Interrupts]] to be raised after a configurable time.
+- APIC timer is configured through MMIO registers (external from CPU) (*one-shot* & *periodic* modes) or [[Model-specific Registers]] (the *TSC-deadline* mode)
+- The APIC timer has three modes,
+	- *one-shot* mode trigger interrupt once. It continuously divide the value in current-count register to the divide-configuration register and trigger interrupt when counter reaches value. Operate on the CPU's bus frequency
+	- *periodic* mode is same as one-shot but performed periodically 
+	- *TSC-deadline* mode trigger interrupts when the CPU's timestamp reach the configured value. This is more accurate.

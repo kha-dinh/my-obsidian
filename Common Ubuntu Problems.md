@@ -1,0 +1,3 @@
+- `version 'GLIBC_2.34' not found ` 
+	-  glibc version is hot high enough
+	-  `sudo apt-get install libc6`

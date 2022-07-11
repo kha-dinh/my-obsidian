@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "a86a77407f5c5d35",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b7ad5c72708c4b2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Andersen's Pointer Analysis.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a73cff5b280553c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "34d35066921d5805",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc1ab7627849dd8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a748d9cd2228352",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "022211da5888299a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 198
+  },
+  "right": {
+    "id": "0954a4bdf6671a5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d6cf1545addd40c",
+        "type": "tabs",
+        "dimension": 65.96512327119663,
+        "children": [
+          {
+            "id": "a54c7dd06586e8f9",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Andersen's Pointer Analysis.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -0.8,
+                  "nodeSizeMultiplier": 1.83550999085804,
+                  "lineSizeMultiplier": 1.58998737538636,
+                  "collapse-forces": false,
+                  "centerStrength": 0.540899394889208,
+                  "repelStrength": 15.5543946715424,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.40844332494220065,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "0cbc430bc50a2680",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "35a5ed43af941864",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Andersen's Pointer Analysis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dce607d3e957b609",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Andersen's Pointer Analysis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19aaabe7099b6f57",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Andersen's Pointer Analysis.md"
+              }
+            }
+          },
+          {
+            "id": "0c579c4659aadcf4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "da038a2743ef8478",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "56b0c8fabd98c7ab",
+        "type": "tabs",
+        "dimension": 34.03487672880337,
+        "children": [
+          {
+            "id": "db1fc0f1c97cc41b",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.758056640625
+  },
+  "active": "0b7ad5c72708c4b2",
+  "lastOpenFiles": [
+    "Andersen's Pointer Analysis.md",
+    "Automatic PIM Offloading.md",
+    "A step-by-step approach to problem solving.md",
+    "Types of Analysis.md",
+    "Points-to Analysis.md",
+    "Data Flow Analysis.md",
+    "MTE vs. PAC.md",
+    "SE-PIM Reviews TCC.md",
+    "Daily/2022-06-20.md",
+    "PAC Defenses.md"
+  ]
+}

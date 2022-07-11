@@ -1,0 +1,1 @@
+- The attack based on the timing of [[clflush]] instructions, which make it stealthy, because no actual memory access is done.

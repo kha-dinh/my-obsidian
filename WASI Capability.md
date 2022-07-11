@@ -1,0 +1,2 @@
+- [[WASI]] introduced capabilities to WASM by enforcing that all access to external resources must be done through handles (basically a capability token)
+- The design references Capsicum [[@watson2010capsicum]] & CloudABI (dropped)

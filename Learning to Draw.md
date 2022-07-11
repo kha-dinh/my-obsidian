@@ -1,0 +1,2 @@
+- When you can draw something from memory, it means that you *learned* it.
+- Drawing from imagination does not mean that the thing you draw never exisited. It means that the combination (the angle, the arrangement, the) is new.

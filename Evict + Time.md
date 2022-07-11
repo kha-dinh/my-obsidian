@@ -1,0 +1,1 @@
+- The execution time of the victim is measured. Then, the attacker evict a specific cache set, and measure the execution time again. If the execution time is longer, the victim used that cache set.

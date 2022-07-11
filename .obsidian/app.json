@@ -1,0 +1,18 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "vimMode": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "Attachments",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 50
+  },
+  "foldIndent": true,
+  "foldHeading": true,
+  "showLineNumber": true
+}

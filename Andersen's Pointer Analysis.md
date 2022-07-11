@@ -1,0 +1,1 @@
+Andersen Analysis is a [[Flow-insensive]], [[Context-insensitve]] analysis.

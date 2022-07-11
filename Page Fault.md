@@ -1,0 +1,4 @@
+- When the CPU access virtual address that does not have virtual to physical mapping, it generates a page fault, which is a [[Interrupt]]
+- The CPU report to the OS the faulting address, type of page,  ...
+- The OS swap in the content from the disk ([[Page Swapping]])
+- When reclaiming physical memory, the OS delete virtual to physical mappings.

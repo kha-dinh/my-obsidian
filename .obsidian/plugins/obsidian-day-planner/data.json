@@ -1,0 +1,40 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 1,
+  "mermaid": false,
+  "notesToDates": [
+    {
+      "notePath": "Daily/2022-03-14.md",
+      "date": "Mon Mar 14 2022"
+    },
+    {
+      "notePath": "Daily/2022-03-15.md",
+      "date": "Tue Mar 15 2022"
+    },
+    {
+      "notePath": "Daily/2022-03-16.md",
+      "date": "Wed Mar 16 2022"
+    },
+    {
+      "notePath": "Daily/2022-03-17.md",
+      "date": "Thu Mar 17 2022"
+    },
+    {
+      "notePath": "Daily/2022-03-18.md",
+      "date": "Fri Mar 18 2022"
+    },
+    {
+      "notePath": "Daily/2022-03-31.md",
+      "date": "Thu Mar 31 2022"
+    },
+    {
+      "notePath": "Daily/2022-06-20.md",
+      "date": "Mon Jun 20 2022"
+    }
+  ],
+  "completePastItems": true,
+  "circularProgress": false,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": true,
+  "timelineZoomLevel": 4
+}

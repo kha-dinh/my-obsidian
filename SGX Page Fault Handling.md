@@ -1,0 +1,3 @@
+- Page fault is handled in the same way as normal execution [[Page Fault]].
+- Because of this, the OS can see all the addresses the enclave is faulting, which leads to [[Controlled-channel Attacks]]
+- 

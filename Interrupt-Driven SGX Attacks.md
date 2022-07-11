@@ -1,0 +1,1 @@
+- Most of the work exploit the configurable [[APIC Timer]] to precisely trigger interrupts to SGX and [[SGX Interrupt Handling]].

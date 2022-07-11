@@ -1,0 +1,2 @@
+- Shelves are for displaying, not for storage.
+- 

@@ -1,0 +1,4 @@
+- CHERI (Capability Hardware Enhanced RISC Instructions ) [[@woodruff2014cheri]]
+- [[WASI Capability]]
+- Capsicum Capabilities  [[@watson2010capsicum]]
+- [[Fuchsia Capabilities]]
