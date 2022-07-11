@@ -14,6 +14,17 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "7af87a0b4b1e8043",
+        "type": "leaf",
+        "state": {
+          "type": "diff-view",
+          "state": {
+            "staged": false,
+            "file": "Andersen's Pointer Analysis.md"
+          }
+        }
       }
     ],
     "direction": "vertical"
