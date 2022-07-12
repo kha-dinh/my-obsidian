@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Andersen's Pointer Analysis.md",
+            "file": "Automatic Device Driver Isolation.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Andersen's Pointer Analysis.md",
+                "file": "Automatic Device Driver Isolation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andersen's Pointer Analysis.md",
+                "file": "Automatic Device Driver Isolation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andersen's Pointer Analysis.md",
+                "file": "Automatic Device Driver Isolation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andersen's Pointer Analysis.md"
+                "file": "Automatic Device Driver Isolation.md"
               }
             }
           },
@@ -207,15 +207,15 @@
   },
   "active": "0b7ad5c72708c4b2",
   "lastOpenFiles": [
+    "Automatic Device Driver Isolation.md",
+    "PaperNotes/@wang2020kleespectre.md",
+    "PaperNotes/@huangtaming.md",
+    "PaperNotes/@datta2020valve.md",
+    "PaperNotes/@huang2022ksplit.md",
     "Andersen's Pointer Analysis.md",
     "Automatic PIM Offloading.md",
     "A step-by-step approach to problem solving.md",
     "Types of Analysis.md",
-    "Points-to Analysis.md",
-    "Data Flow Analysis.md",
-    "MTE vs. PAC.md",
-    "SE-PIM Reviews TCC.md",
-    "Daily/2022-06-20.md",
-    "PAC Defenses.md"
+    "Points-to Analysis.md"
   ]
 }
