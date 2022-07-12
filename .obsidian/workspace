@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Automatic Device Driver Isolation.md",
+            "file": "Frequency Smoothing.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Automatic Device Driver Isolation.md",
+                "file": "Frequency Smoothing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Automatic Device Driver Isolation.md",
+                "file": "Frequency Smoothing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Automatic Device Driver Isolation.md",
+                "file": "Frequency Smoothing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Automatic Device Driver Isolation.md"
+                "file": "Frequency Smoothing.md"
               }
             }
           },
@@ -207,6 +207,7 @@
   },
   "active": "0b7ad5c72708c4b2",
   "lastOpenFiles": [
+    "Frequency Smoothing.md",
     "Automatic Device Driver Isolation.md",
     "PaperNotes/@wang2020kleespectre.md",
     "PaperNotes/@huangtaming.md",
@@ -215,7 +216,6 @@
     "Andersen's Pointer Analysis.md",
     "Automatic PIM Offloading.md",
     "A step-by-step approach to problem solving.md",
-    "Types of Analysis.md",
-    "Points-to Analysis.md"
+    "Types of Analysis.md"
   ]
 }
