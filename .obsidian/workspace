@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pointer Invalidation.md",
+            "file": "Pointer Tagging for Garbage Collection.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pointer Invalidation.md",
+                "file": "Pointer Tagging for Garbage Collection.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pointer Invalidation.md",
+                "file": "Pointer Tagging for Garbage Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pointer Invalidation.md",
+                "file": "Pointer Tagging for Garbage Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pointer Invalidation.md"
+                "file": "Pointer Tagging for Garbage Collection.md"
               }
             }
           },
@@ -197,6 +197,7 @@
   },
   "active": "8253424bab68977a",
   "lastOpenFiles": [
+    "Pointer Tagging for Garbage Collection.md",
     "Pointer Invalidation.md",
     "PaperNotes/@shin2019crcount.md",
     "Use-after-Free.md",
@@ -205,7 +206,6 @@
     "Dangling Pointer Nullification.md",
     "Pointer Tagging.md",
     "Memory Quarantine.md",
-    "PaperNotes/@erdos2022minesweeper.md",
-    "A step-by-step approach to problem solving.md"
+    "PaperNotes/@erdos2022minesweeper.md"
   ]
 }
