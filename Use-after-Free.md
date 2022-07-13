@@ -1,0 +1,15 @@
+- Use-after-free happens when an in-memory pointer whose object is already freed is dereferenced.
+- It is hard to detect use-after-free with [[Static Analysis]] because the point of allocation and the use might be far away. 
+- The pointers can also be copied to another locations.
+# Defenses
+- There are generally approaches for preventing use-after-free:
+	- [[Garbage Collection (C)]]-based defenses invalidate in-memory pointers to an object after it has been freed. 
+	- [[Memory Quarantine]]-based defenses prevent the reuse of the memory region used for an object after it as been freed. 
+		- The limitations are memory overheads and incomplete protection. Quarantined memory cannot be reused, which leads to more memory use. Many defenses only quarantine the memory up to N allocations, which make the protection in-complete. 
+		- So far it is the most practical.
+	- [[Pointer Tagging]]-based defense tag pointers with metadata at the allocation (e.g., in to unused bytes). The metadata naturally travels with the pointer in memory copy and pointer arithmetic. It then instrument memory dereferences to validate the pointer's metadata. For instance, the pointer's metadata could contain the object's ID, which is use as an index to lookup for its allocation status in a table ([[@cho2022vik]],[[@farkhani2021ptauth]]).
+		- Limitations include excessive overheads from program instrumentation. Some solves this by conservatively instrumenting pointer uses that might be use-after-free ([[@farkhani2021ptauth]]).
+	- [[Randomized Allocations]] randomize the addresses of each allocated object, making it harder to exploit use-after-free
+		- This can be bypassed by ...
+- [[Garbage Collection (C)]] and [[Memory Quarantine]]-based defenses only changes the behavior of the memory allocator and does not requires change to the program semantics. On the other hand, [[Pointer Tagging]]-based defenses requires program instrumentation.
+- [[Garbage Collection (C)]] and [[Memory Quarantine]] can be combined to have better memory utilization: Memory objects are quarantined until it can be verified that there is no in-memory dangling pointers (from memory scanning) [[@erdos2022minesweeper]]

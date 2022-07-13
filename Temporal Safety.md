@@ -1,0 +1,2 @@
+- Errors related to the validity of pointers or memory objects at the *time of use*
+- Includes [[Use-after-Free]], [[Double-Free]], [[Uninitialized Use]]
