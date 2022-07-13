@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Use-after-Free.md",
+            "file": "Pointer Invalidation.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Use-after-Free.md",
+                "file": "Pointer Invalidation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Use-after-Free.md",
+                "file": "Pointer Invalidation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Use-after-Free.md",
+                "file": "Pointer Invalidation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Use-after-Free.md"
+                "file": "Pointer Invalidation.md"
               }
             }
           },
@@ -197,15 +197,15 @@
   },
   "active": "8253424bab68977a",
   "lastOpenFiles": [
-    "Use-after-Free.md",
     "Pointer Invalidation.md",
+    "PaperNotes/@shin2019crcount.md",
+    "Use-after-Free.md",
     "Garbage Collection (UAF).md",
     "Pointer Provenance.md",
     "Dangling Pointer Nullification.md",
     "Pointer Tagging.md",
     "Memory Quarantine.md",
     "PaperNotes/@erdos2022minesweeper.md",
-    "A step-by-step approach to problem solving.md",
-    "👁️👄👁️ Start Here.md"
+    "A step-by-step approach to problem solving.md"
   ]
 }

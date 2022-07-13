@@ -9,7 +9,7 @@
 One common challenge for pointer invalidation is the accurate tracking of pointers and their propagation inside memory (a.k.a *Pointer Tracking*).
 
 ## Dynamic range analysis
-[[@lee2015preventing]] instrument the program to manage a binary tree structure that stores pointer locations and their referent at all time during the execution. At the time of pointer free, it look up the data structure to find all in-memory pointers of the object, and set them to be NULL.
+[[@lee2015preventing]] instrument the program to manage a binary tree structure that stores pointer locations and the mapping to their referent at all time during the execution. At the time of pointer free, it look up the data structure to find all in-memory pointers of the object, and set them to be NULL.
 
 ## Reference counting 
 [[@shin2019crcount]] uses only a bitmap to indicate memory locations containing pointers. Reference counting is used to track the in-memory references of a pointer.
