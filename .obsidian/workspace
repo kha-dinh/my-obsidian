@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dangling Pointer Nullification.md",
+            "file": "Use-after-Free.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dangling Pointer Nullification.md",
+                "file": "Use-after-Free.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dangling Pointer Nullification.md",
+                "file": "Use-after-Free.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dangling Pointer Nullification.md",
+                "file": "Use-after-Free.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dangling Pointer Nullification.md"
+                "file": "Use-after-Free.md"
               }
             }
           },
@@ -197,15 +197,15 @@
   },
   "active": "8253424bab68977a",
   "lastOpenFiles": [
-    "Dangling Pointer Nullification.md",
     "Use-after-Free.md",
-    "A step-by-step approach to problem solving.md",
-    "👁️👄👁️ Start Here.md",
-    "ARM Memory Tagging.md",
-    "Garbage Collection (C).md",
+    "Pointer Invalidation.md",
+    "Garbage Collection (UAF).md",
+    "Pointer Provenance.md",
+    "Dangling Pointer Nullification.md",
+    "Pointer Tagging.md",
+    "Memory Quarantine.md",
     "PaperNotes/@erdos2022minesweeper.md",
-    "PaperNotes/@farkhani2021ptauth.md",
-    "Temporal Safety.md",
-    "Memory Safety.md"
+    "A step-by-step approach to problem solving.md",
+    "👁️👄👁️ Start Here.md"
   ]
 }
