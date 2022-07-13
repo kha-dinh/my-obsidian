@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Garbage Collection (C).md",
+            "file": "Dangling Pointer Nullification.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Garbage Collection (C).md",
+                "file": "Dangling Pointer Nullification.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garbage Collection (C).md",
+                "file": "Dangling Pointer Nullification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garbage Collection (C).md",
+                "file": "Dangling Pointer Nullification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garbage Collection (C).md"
+                "file": "Dangling Pointer Nullification.md"
               }
             }
           },
@@ -197,15 +197,15 @@
   },
   "active": "8253424bab68977a",
   "lastOpenFiles": [
-    "Garbage Collection (C).md",
+    "Dangling Pointer Nullification.md",
     "Use-after-Free.md",
-    "PaperNotes/@farkhani2021ptauth.md",
+    "A step-by-step approach to problem solving.md",
+    "👁️👄👁️ Start Here.md",
+    "ARM Memory Tagging.md",
+    "Garbage Collection (C).md",
     "PaperNotes/@erdos2022minesweeper.md",
+    "PaperNotes/@farkhani2021ptauth.md",
     "Temporal Safety.md",
-    "Memory Safety.md",
-    "PaperNotes/@ahmad2019obfuscuro.md",
-    "SGX.md",
-    "SGX Interrupt Handling.md",
-    "APIC Timer.md"
+    "Memory Safety.md"
   ]
 }
