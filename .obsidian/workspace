@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pointer Tagging for Garbage Collection.md",
+            "file": "Use-after-Free.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pointer Tagging for Garbage Collection.md",
+                "file": "Use-after-Free.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -102,7 +102,7 @@
                   "repelStrength": 15.5543946715424,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9143514970551516,
+                  "scale": 0.5343087200615227,
                   "close": true
                 }
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pointer Tagging for Garbage Collection.md",
+                "file": "Use-after-Free.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pointer Tagging for Garbage Collection.md",
+                "file": "Use-after-Free.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pointer Tagging for Garbage Collection.md"
+                "file": "Use-after-Free.md"
               }
             }
           },
@@ -197,10 +197,10 @@
   },
   "active": "8253424bab68977a",
   "lastOpenFiles": [
-    "Pointer Tagging for Garbage Collection.md",
+    "Use-after-Free.md",
     "Pointer Invalidation.md",
     "PaperNotes/@shin2019crcount.md",
-    "Use-after-Free.md",
+    "Pointer Tagging for Garbage Collection.md",
     "Garbage Collection (UAF).md",
     "Pointer Provenance.md",
     "Dangling Pointer Nullification.md",
