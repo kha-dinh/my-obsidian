@@ -1,0 +1,3 @@
+- [[Memory Quarantine]]-based defenses prevent the reuse of the memory region used for an object after it as been freed. 
+- [[Randomized Allocations]] randomize the addresses of each allocated object, making it harder to exploit use-after-free
+- [[Pointer Invalidation]] invalidates pointers when they are freed (make sure that they cannot be used. The invalidation can be explicit (setting its value to NULL) or implicit (delay the use of the pointer).

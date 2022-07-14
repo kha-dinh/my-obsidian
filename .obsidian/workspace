@@ -198,14 +198,14 @@
   "active": "8253424bab68977a",
   "lastOpenFiles": [
     "Use-after-Free.md",
+    "Static Analysis.md",
+    "Secure Allocator.md",
+    "Access Validation (UAF).md",
+    "Temporal Safety.md",
+    "PaperNotes/@huangtaming.md",
+    "Pointer Tagging.md",
     "Pointer Invalidation.md",
     "PaperNotes/@shin2019crcount.md",
-    "Pointer Tagging for Garbage Collection.md",
-    "Garbage Collection (UAF).md",
-    "Pointer Provenance.md",
-    "Dangling Pointer Nullification.md",
-    "Pointer Tagging.md",
-    "Memory Quarantine.md",
-    "PaperNotes/@erdos2022minesweeper.md"
+    "Pointer Tagging for Garbage Collection.md"
   ]
 }

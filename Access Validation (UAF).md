@@ -1,0 +1,2 @@
+
+- [[Pointer Tagging]]-based defense tag pointers with metadata at the allocation (e.g., in to unused bytes). Then, the program is instrumented memory dereferences to validate the pointer's metadata ([[Detecting UAF with Pointer Tagging]]) 
