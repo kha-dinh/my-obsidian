@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pointer Invalidation.md",
+            "file": "Memory Quarantine.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pointer Invalidation.md",
+                "file": "Memory Quarantine.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pointer Invalidation.md",
+                "file": "Memory Quarantine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pointer Invalidation.md",
+                "file": "Memory Quarantine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pointer Invalidation.md"
+                "file": "Memory Quarantine.md"
               }
             }
           },
@@ -197,13 +197,13 @@
   },
   "active": "8253424bab68977a",
   "lastOpenFiles": [
+    "Pointer Invalidation.md",
+    "Dangling Pointer Nullification.md",
     "Use-after-Free.md",
     "Temporal Safety.md",
     "Secure Allocator.md",
     "Garbage Collection (UAF).md",
     "Memory Quarantine.md",
-    "Pointer Invalidation.md",
-    "Dangling Pointer Nullification.md",
     "Access Validation (UAF).md",
     "Static Analysis.md",
     "PaperNotes/@huangtaming.md"
