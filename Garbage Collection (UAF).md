@@ -1,4 +1,6 @@
-Garbage collectors (GC) in C prevents [[Use-after-Free]] by guaranteeing that the memory object can only be freed if there is no more references (pointers) to the object.
+Many use-after-free defense is inspired by garbage collectors. They prevent [[Use-after-Free]] by guaranteeing that the memory object can only be freed if there is no more references (pointers) to the object. 
+
+They are *implicit* approahces
 
 GC tends to be slow because of memory scanning, so many perform the scanning task periodically ([[@erdos2022minesweeper]])
 

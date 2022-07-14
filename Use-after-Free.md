@@ -4,6 +4,8 @@ They are hard to detect use-after-free with [[Static Analysis]] because the poin
 
 # Defenses
 Approaches for preventing use-after-free:
-- [[Secure Allocator]]-based defenses enhance the allocator behaviors to *prevent* use-after-free at the root cause. The allocator therefore *implicitly* prevents after-free erros
+- [[Secure Allocator]]-based defenses enhance the allocator behaviors to *prevent* use-after-free at the root cause. The allocator therefore *implicitly* prevents after-free errors.
 	- They can be to be a *drop-in* replacement without recompilation. 
 - [[Access Validation (UAF)]]-based techniques instrument the program with code to validate pointer reverences. To achieve this, they attach a unique attribute (metadata) to each allocated object. When a pointer is dereferenced, the referenced object's validity is checked. This requires instrumentation of the pointer references with *explicit checks*.
+- [[Pointer Invalidation]] invalidates pointers when they are freed (make sure that they cannot be used. The invalidation can be explicit (setting its value to NULL) or implicit (delay the use of the pointer).
+- 
