@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Memory Quarantine.md",
+            "file": "Useful Latex Packages.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Memory Quarantine.md",
+                "file": "Useful Latex Packages.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Quarantine.md",
+                "file": "Useful Latex Packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Quarantine.md",
+                "file": "Useful Latex Packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Quarantine.md"
+                "file": "Useful Latex Packages.md"
               }
             }
           },
@@ -197,13 +197,13 @@
   },
   "active": "8253424bab68977a",
   "lastOpenFiles": [
+    "Memory Quarantine.md",
     "Pointer Invalidation.md",
     "Dangling Pointer Nullification.md",
     "Use-after-Free.md",
     "Temporal Safety.md",
     "Secure Allocator.md",
     "Garbage Collection (UAF).md",
-    "Memory Quarantine.md",
     "Access Validation (UAF).md",
     "Static Analysis.md",
     "PaperNotes/@huangtaming.md"
