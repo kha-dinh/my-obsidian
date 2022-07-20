@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Link-time Optimization.md",
+            "file": "LLVM.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Link-time Optimization.md",
+                "file": "LLVM.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Link-time Optimization.md",
+                "file": "LLVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Link-time Optimization.md",
+                "file": "LLVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Link-time Optimization.md"
+                "file": "LLVM.md"
               }
             }
           },
@@ -197,6 +197,7 @@
   },
   "active": "8253424bab68977a",
   "lastOpenFiles": [
+    "Link-time Optimization.md",
     "LLVM.md",
     "Force Inlining Functions.md",
     "MachineInst naming in LLVM.md",
@@ -205,7 +206,6 @@
     "Pointer Invalidation.md",
     "Dangling Pointer Nullification.md",
     "Use-after-Free.md",
-    "Temporal Safety.md",
-    "Secure Allocator.md"
+    "Temporal Safety.md"
   ]
 }
