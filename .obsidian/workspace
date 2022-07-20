@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Useful Latex Packages.md",
+            "file": "LLVM.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Useful Latex Packages.md",
+                "file": "LLVM.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Latex Packages.md",
+                "file": "LLVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Latex Packages.md",
+                "file": "LLVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Latex Packages.md"
+                "file": "LLVM.md"
               }
             }
           },
@@ -197,15 +197,15 @@
   },
   "active": "8253424bab68977a",
   "lastOpenFiles": [
+    "Force Inlining Functions.md",
+    "LLVM.md",
+    "MachineInst naming in LLVM.md",
+    "Useful Latex Packages.md",
     "Memory Quarantine.md",
     "Pointer Invalidation.md",
     "Dangling Pointer Nullification.md",
     "Use-after-Free.md",
     "Temporal Safety.md",
-    "Secure Allocator.md",
-    "Garbage Collection (UAF).md",
-    "Access Validation (UAF).md",
-    "Static Analysis.md",
-    "PaperNotes/@huangtaming.md"
+    "Secure Allocator.md"
   ]
 }
