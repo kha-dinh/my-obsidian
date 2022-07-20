@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LLVM.md",
+            "file": "Link-time Optimization.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LLVM.md",
+                "file": "Link-time Optimization.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLVM.md",
+                "file": "Link-time Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLVM.md",
+                "file": "Link-time Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLVM.md"
+                "file": "Link-time Optimization.md"
               }
             }
           },
@@ -197,8 +197,8 @@
   },
   "active": "8253424bab68977a",
   "lastOpenFiles": [
-    "Force Inlining Functions.md",
     "LLVM.md",
+    "Force Inlining Functions.md",
     "MachineInst naming in LLVM.md",
     "Useful Latex Packages.md",
     "Memory Quarantine.md",
