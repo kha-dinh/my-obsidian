@@ -9,6 +9,6 @@ tabularx is a drop-in replacement for the default tabular package. It allows (1)
 booktabs overwrite the default latex tables. It just looks better.
 
 # makecell
-makecell allows customized formating of individual table cells. 
+makecell allows customized formating of individual table cells. It also provides useful commands for formating table headings (`\thead{}`)   
 
 # multicolumn & multirow
