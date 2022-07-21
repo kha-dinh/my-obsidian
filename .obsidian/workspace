@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8253424bab68977a",
+        "id": "294938873a3bc315",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Oriented Attack vs Information Leakage.md",
+            "file": "PaperNotes/@milburn2021mitigating.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data Oriented Attack vs Information Leakage.md",
+                "file": "PaperNotes/@milburn2021mitigating.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Oriented Attack vs Information Leakage.md",
+                "file": "PaperNotes/@milburn2021mitigating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Oriented Attack vs Information Leakage.md",
+                "file": "PaperNotes/@milburn2021mitigating.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Oriented Attack vs Information Leakage.md"
+                "file": "PaperNotes/@milburn2021mitigating.md"
               }
             }
           },
@@ -195,17 +195,17 @@
     "direction": "horizontal",
     "width": 525.5925903320312
   },
-  "active": "8253424bab68977a",
+  "active": "294938873a3bc315",
   "lastOpenFiles": [
+    "PaperNotes/@vicarte2022augury.md",
+    "PaperNotes/@milburn2021mitigating.md",
+    "Data Oriented Attack vs Information Leakage.md",
     "Academic Skillset.md",
     "Pointer Tagging.md",
     "PaperNotes/@cho2022vik.md",
     "Access Validation (UAF).md",
     "Learning to learn.md",
     "Learn any language in 6 months.md",
-    "Writing papers.md",
-    "Problem Solving.md",
-    "Feynman Algorithm.md",
-    "Link-time Optimization.md"
+    "Writing papers.md"
   ]
 }
