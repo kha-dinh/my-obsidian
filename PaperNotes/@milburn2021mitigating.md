@@ -13,6 +13,7 @@ Pointer masking scheme [[Software Fault Isolation]], but the instrumentation is 
 In overview, the type-based allocator allocate object into *arenas* 
 of 4GB, identified by a pointer upper 32-bits. 4GB guard zones are inserted before and after the arena. The masking contain the pointer arithmetic such that it always generate new pointers that points to the contained arena or the guard zone.
 
+
 The paper proposed many static analysis to reduce the number of instrumentation. Static analysis supports the detection of pointers that would fall within the arena / guard zone.
 One key design is the *categorization* of pointer arithmetics:
 - Valid pointers are returned by malloc, in the argument and loaded from memory. Valid pointers is guaranteed to be within the arena, so the upper 32 bits are correct

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Ideas.md",
+            "file": "PaperNotes/@nyman2019hardscope.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Game Ideas.md",
+                "file": "PaperNotes/@nyman2019hardscope.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Ideas.md",
+                "file": "PaperNotes/@nyman2019hardscope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Ideas.md",
+                "file": "PaperNotes/@nyman2019hardscope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Ideas.md"
+                "file": "PaperNotes/@nyman2019hardscope.md"
               }
             }
           },
@@ -197,7 +197,6 @@
   },
   "active": "294938873a3bc315",
   "lastOpenFiles": [
-    "Game Ideas.md",
     "PaperNotes/@milburn2021mitigating.md",
     "PaperNotes/@vicarte2022augury.md",
     "Data Oriented Attack vs Information Leakage.md",
@@ -206,6 +205,7 @@
     "PaperNotes/@cho2022vik.md",
     "Access Validation (UAF).md",
     "Learning to learn.md",
-    "Learn any language in 6 months.md"
+    "Learn any language in 6 months.md",
+    "Writing papers.md"
   ]
 }
