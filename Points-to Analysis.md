@@ -1,5 +1,0 @@
-- Points-to analysis deals with pointers, a construct in C/C++
-- Is a type of [[Data Flow Analysis]]
-- 
-- Data flow analysis reasons about 
-- Information flow / Taint analysis 

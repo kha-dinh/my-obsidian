@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PaperNotes/@nyman2019hardscope.md",
+            "file": "PaperNotes/@palit2021dynpta.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PaperNotes/@nyman2019hardscope.md",
+                "file": "PaperNotes/@palit2021dynpta.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -102,7 +102,7 @@
                   "repelStrength": 15.5543946715424,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5343087200615227,
+                  "scale": 0.5343087200615225,
                   "close": true
                 }
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PaperNotes/@nyman2019hardscope.md",
+                "file": "PaperNotes/@palit2021dynpta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PaperNotes/@nyman2019hardscope.md",
+                "file": "PaperNotes/@palit2021dynpta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PaperNotes/@nyman2019hardscope.md"
+                "file": "PaperNotes/@palit2021dynpta.md"
               }
             }
           },
@@ -197,15 +197,15 @@
   },
   "active": "294938873a3bc315",
   "lastOpenFiles": [
+    "Dynamic Information Flow Tracking.md",
+    "Pointer Invalidation.md",
+    "Points-to Analysis (Pointer Analysis).md",
+    "Compiler Analyses.md",
+    "Data Flow Analysis.md",
+    "PaperNotes/@palit2021dynpta.md",
+    "Data Isolation.md",
     "PaperNotes/@milburn2021mitigating.md",
-    "PaperNotes/@vicarte2022augury.md",
-    "Data Oriented Attack vs Information Leakage.md",
-    "Academic Skillset.md",
-    "Pointer Tagging.md",
-    "PaperNotes/@cho2022vik.md",
-    "Access Validation (UAF).md",
-    "Learning to learn.md",
-    "Learn any language in 6 months.md",
-    "Writing papers.md"
+    "PaperNotes/@milburnmitigating.md",
+    "PaperNotes/@nyman2019hardscope.md"
   ]
 }

@@ -23,4 +23,4 @@
 
 
 
-- With [[Points-to Analysis]],
+- With [[Points-to Analysis (Pointer Analysis)]],

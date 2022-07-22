@@ -6,7 +6,8 @@ published: [[]]
 conference: 
 ---
 
-The paper proposed the use of [[Pointer Masking]] for isolating data. One  key differences with previous data isolation is that data is   isolated based on their *type*, which removes the need for manual annotation or pointer analysis.
+The paper proposed the use of [[Pointer Masking]] for isolating data. One  key differences with previous [[Data Isolation]] is that data is   isolated based on their *type*, which removes the need for manual annotation or pointer analysis.
+
 
 Pointer masking scheme [[Software Fault Isolation]], but the instrumentation is performed on *pointer arithmetic*, in stead of load and store instructions.
 

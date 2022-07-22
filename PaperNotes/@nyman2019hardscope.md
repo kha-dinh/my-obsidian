@@ -6,4 +6,4 @@ published: [[]]
 conference: 
 ---
 
-The paper argue that containing variable uses to its "scope" defined by the programming language would prevents [[Data-oriented Attacks]]. They 
+The paper argue that containing variable uses to its "scope" defined by the programming language (e.g., functions) would prevents [[Data-oriented Attacks]]. 
