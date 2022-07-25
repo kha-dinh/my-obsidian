@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Pointer Scoping.md",
+            "file": "PaperNotes/@nyman2019hardscope.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data Pointer Scoping.md",
+                "file": "PaperNotes/@nyman2019hardscope.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Pointer Scoping.md",
+                "file": "PaperNotes/@nyman2019hardscope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Pointer Scoping.md",
+                "file": "PaperNotes/@nyman2019hardscope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Pointer Scoping.md"
+                "file": "PaperNotes/@nyman2019hardscope.md"
               }
             }
           },
@@ -197,8 +197,8 @@
   },
   "active": "294938873a3bc315",
   "lastOpenFiles": [
-    "PaperNotes/@nyman2019hardscope.md",
     "Data Pointer Scoping.md",
+    "PaperNotes/@nyman2019hardscope.md",
     "PaperNotes/@kirth2022pkrusafe.md",
     "Challenges in CFI Implementations.md",
     "PaperNotes/@li2020finding.md",
