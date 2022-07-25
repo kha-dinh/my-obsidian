@@ -13,7 +13,8 @@ The design is simple, the address space is partitioned into MU (untrusted memory
 
 The author use source code annotation to annotate the interface between trusted code and the library. This is because instrumenting all libraries interface is a too strict policy.
 
-A challenge is to determine memory that is used by the untrusted component. The paper used [[Dynamic Information Flow Tracking]] to determine such memory. It instrument allocation functions in T as the taint source, and the interfaces to U as the sink. It then use profile input to collect the taint, any memory that flow into U is changed to be allocated into U.
+A challenge is to determine memory that is used by the untrusted component. The paper used [[Dynamic Information Flow Tracking]] to determine such memory. It track and record page fault from U, then match with allocations from T.  Any allocation that is allocated is moved to MU.
+
 
 The paper proposed an interesting use case of DIFT.  Instead of tracking the information flow at runtime, the paper uses profile data to determine the potential runtime information flow, and instrument the program to be "dataflow-aware". This is different from previous papers such as [[@palit2021dynpta]] that track the data flow at runtime and enforce the isolation. The authors compare the approach with that of [[SELinux]].
 
