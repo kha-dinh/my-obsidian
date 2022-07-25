@@ -1,18 +1,13 @@
-Goals: Scoping data pointers & variables.
-
-In block-structured programming languages, every variable has a lexical scope indicating block(s) of source code that has access to such variable. The compiler then check for such variable scope at compile time. However, such information is lost when the source code is compiled into lower level languages.
-
-HardScope [[@nyman2019hardscope]] proposed providing compiler scope information to a runtime hardware enforcement mechanism that enforce the scope. 
-
-However, the scope of dynamically allocated pointers are hard to identify at compile time.
-
 
 # High level goals
 The goal of this is to achieve the principle of least-privilege of pointer usage, such that pointers can only be authenticated within appropriate context.  
 
-We use a granularity of a function. This is because the privileges of functions (its variable scopes, its input and output) are commonly well-defined in the source code.
+We use a granularity of a function. This is because the privileges of functions (its variable scopes, its input and output) are commonly well-defined in the source code. Moreover, most exploit happens at function levels. 
+
 
 # Scope and assumption
+
+
 
 
 # Why?

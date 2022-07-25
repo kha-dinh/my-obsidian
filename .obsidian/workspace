@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Pointer Scoping.md",
+            "file": "Data Pointer Scope Authenticaiton.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data Pointer Scoping.md",
+                "file": "Data Pointer Scope Authenticaiton.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Pointer Scoping.md",
+                "file": "Data Pointer Scope Authenticaiton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Pointer Scoping.md",
+                "file": "Data Pointer Scope Authenticaiton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Pointer Scoping.md"
+                "file": "Data Pointer Scope Authenticaiton.md"
               }
             }
           },
@@ -197,15 +198,15 @@
   },
   "active": "294938873a3bc315",
   "lastOpenFiles": [
-    "PaperNotes/@nyman2019hardscope.md",
-    "Data Pointer Scoping.md",
-    "PaperNotes/@kirth2022pkrusafe.md",
-    "Challenges in CFI Implementations.md",
-    "PaperNotes/@li2020finding.md",
-    "PaperNotes/@palit2021dynpta.md",
     "Dynamic Information Flow Tracking.md",
-    "Pointer Invalidation.md",
-    "Points-to Analysis (Pointer Analysis).md",
-    "Compiler Analyses.md"
+    "PaperNotes/@kirth2022pkrusafe.md",
+    "PaperNotes/@palit2021dynpta.md",
+    "Type Safety.md",
+    "PaperNotes/@huangtaming.md",
+    "PaperNotes/@vanderkouwe2018typeaftertype.md",
+    "PaperNotes/@milburn2021mitigating.md",
+    "Data Pointer Scope Authenticaiton.md",
+    "Temporal Safety.md",
+    "PaperNotes/@nyman2019hardscope.md"
   ]
 }
