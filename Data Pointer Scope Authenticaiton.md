@@ -1,4 +1,3 @@
-
 # High level goals
 The goal of this is to achieve the principle of least-privilege of pointer usage, such that pointers can only be authenticated within appropriate context.  
 
@@ -6,7 +5,6 @@ We use a granularity of a function. This is because the privileges of functions 
 
 
 # Scope and assumption
-
 
 
 
