@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PaperNotes/@hu2016dataoriented.md",
+            "file": "Memory Protection Unit.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PaperNotes/@hu2016dataoriented.md",
+                "file": "Memory Protection Unit.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PaperNotes/@hu2016dataoriented.md",
+                "file": "Memory Protection Unit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PaperNotes/@hu2016dataoriented.md",
+                "file": "Memory Protection Unit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PaperNotes/@hu2016dataoriented.md"
+                "file": "Memory Protection Unit.md"
               }
             }
           },
@@ -198,6 +198,7 @@
   },
   "active": "294938873a3bc315",
   "lastOpenFiles": [
+    "PaperNotes/@hu2016dataoriented.md",
     "LLVM.md",
     "PaperNotes/@kirth2022pkrusafe.md",
     "Dynamic Information Flow Tracking.md",
@@ -206,7 +207,6 @@
     "Attachments/Pasted image 20220725132354.png",
     "PaperNotes/@nyman2019hardscope.md",
     "PaperNotes/@palit2021dynpta.md",
-    "Type Safety.md",
-    "PaperNotes/@huangtaming.md"
+    "Type Safety.md"
   ]
 }
