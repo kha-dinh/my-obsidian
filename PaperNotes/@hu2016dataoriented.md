@@ -16,6 +16,6 @@ The attacker might first overwrite `type` to select the condition execute
 - line 12: assignment 
 - line 13:  addition
 
+Conceptually, the gadget dispatcher is a virtual CPU that execute virtual instructions. Each virtual instruction consists of the following gadgets: (1) controlled load, (2) arithmetic and (3) controlled store. The author use a selected location inside memory as virtual register to store the results of the gadget.
 
-To identify the gadgets, 
-
+The author shows that the  DOP attack is Turing-complete -- it can immitate the  turing machine.
