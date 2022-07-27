@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PaperNotes/@clements2018aces.md",
+            "file": "PaperNotes/@sun2020oat.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PaperNotes/@clements2018aces.md",
+                "file": "PaperNotes/@sun2020oat.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PaperNotes/@clements2018aces.md",
+                "file": "PaperNotes/@sun2020oat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PaperNotes/@clements2018aces.md",
+                "file": "PaperNotes/@sun2020oat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PaperNotes/@clements2018aces.md"
+                "file": "PaperNotes/@sun2020oat.md"
               }
             }
           },
@@ -197,15 +197,15 @@
   },
   "active": "294938873a3bc315",
   "lastOpenFiles": [
-    "PaperNotes/@mera2022dbox.md",
+    "Andersen's Pointer Analysis.md",
+    "PaperNotes/@sun2020oat.md",
+    "PaperNotes/@ismail2021vip.md",
+    "PaperNotes/@shin2019crcount.md",
     "PaperNotes/@clements2018aces.md",
+    "PaperNotes/@mera2022dbox.md",
     "ARM Cortex-M.md",
     "Memory Protection Unit.md",
     "Image Manipulation in Obsidian.md",
-    "Least-privileged functions.md",
-    "Data Pointer Scope Authenticaiton.md",
-    "PaperNotes/@hu2016dataoriented.md",
-    "LLVM.md",
-    "PaperNotes/@kirth2022pkrusafe.md"
+    "Least-privileged functions.md"
   ]
 }
