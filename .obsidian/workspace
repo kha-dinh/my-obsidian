@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PaperNotes/@sun2020oat.md",
+            "file": "How To Solve It.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PaperNotes/@sun2020oat.md",
+                "file": "How To Solve It.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PaperNotes/@sun2020oat.md",
+                "file": "How To Solve It.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PaperNotes/@sun2020oat.md",
+                "file": "How To Solve It.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PaperNotes/@sun2020oat.md"
+                "file": "How To Solve It.md"
               }
             }
           },
@@ -197,15 +197,15 @@
   },
   "active": "294938873a3bc315",
   "lastOpenFiles": [
-    "Andersen's Pointer Analysis.md",
-    "PaperNotes/@sun2020oat.md",
-    "PaperNotes/@ismail2021vip.md",
-    "PaperNotes/@shin2019crcount.md",
-    "PaperNotes/@clements2018aces.md",
-    "PaperNotes/@mera2022dbox.md",
-    "ARM Cortex-M.md",
-    "Memory Protection Unit.md",
-    "Image Manipulation in Obsidian.md",
-    "Least-privileged functions.md"
+    "How to understand a problem.md",
+    "How To Solve It.md",
+    "Problem Solving.md",
+    "Fuchsia Capabilities.md",
+    "Frequency Smoothing.md",
+    "Eviction vs. Flushing.md",
+    "Data Isolation.md",
+    "Elapsed Real Time (Wall Time).md",
+    "Data Flow Analysis.md",
+    "Controlled-channel Defenses.md"
   ]
 }

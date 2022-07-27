@@ -19,7 +19,7 @@ To verify the control flow, the paper uses *Abstract execution*, which only emul
 
 The paper claims that detecting the corruption of *critical values* (control-dependent variables, or user-defined sensitive variables) between their *define* and *use* could detect data-only attacks.  If fine all the define (store) and use (load) of those variables, and instrument them to (1) record the last defined value, and (2) check if the value match on use.  Conceptually, this is very similar to [[@ismail2021vip]].
 
-Using the scheme, all of the dependent value (dataflow) and usage of pointer to the value also need to be instrumented. For dependent values, it use the [[Program Dependence Graph]] and collect the dependencies of the initial critical values.  For pointers, it uses [[Andersen's Pointer Analysis]] to find the points-to set of pointers.
+Using the scheme, all of the dependent value (dataflow) and usage of pointer to the value also need to be instrumented. For dependent values, it use the [[Program Dependence Graph]] and collect the dependencies of the initial critical values.  For pointers, it uses [[Andersen's Pointer Analysis]] to find the points-to set of pointers. The imprecision is not mentioned, but maybe embedded programs are small so it is not a problem.
 
 
 

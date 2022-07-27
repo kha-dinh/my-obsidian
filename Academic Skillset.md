@@ -1,4 +1,4 @@
 
-- [[Learning to learn]]
+- [[Learning to Learn]]
 - [[Problem Solving]]
 - [[Writing papers]]

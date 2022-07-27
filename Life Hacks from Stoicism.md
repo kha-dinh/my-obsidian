@@ -1,2 +1,2 @@
-- Do not care about what you cannot control. You cannot control other people's thingking. You can not control nature.
+- Do not care about what you cannot control. You cannot control other people's thinking. You can not control nature.
 - Prepare for the worst case. Always have a backup plan. That way failure, or loss never affect you.
