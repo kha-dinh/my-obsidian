@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "How To Solve It.md",
+            "file": "Software Sanitizer.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "How To Solve It.md",
+                "file": "Software Sanitizer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How To Solve It.md",
+                "file": "Software Sanitizer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How To Solve It.md",
+                "file": "Software Sanitizer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How To Solve It.md"
+                "file": "Software Sanitizer.md"
               }
             }
           },
@@ -197,15 +197,15 @@
   },
   "active": "294938873a3bc315",
   "lastOpenFiles": [
-    "How to understand a problem.md",
+    "Sanitizer vs. Exploit mitigation.md",
     "How To Solve It.md",
+    "How to understand a problem.md",
     "Problem Solving.md",
     "Fuchsia Capabilities.md",
     "Frequency Smoothing.md",
     "Eviction vs. Flushing.md",
     "Data Isolation.md",
     "Elapsed Real Time (Wall Time).md",
-    "Data Flow Analysis.md",
-    "Controlled-channel Defenses.md"
+    "Data Flow Analysis.md"
   ]
 }
