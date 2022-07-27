@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ARM Cortex-M.md",
+            "file": "PaperNotes/@clements2018aces.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ARM Cortex-M.md",
+                "file": "PaperNotes/@clements2018aces.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARM Cortex-M.md",
+                "file": "PaperNotes/@clements2018aces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ARM Cortex-M.md",
+                "file": "PaperNotes/@clements2018aces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARM Cortex-M.md"
+                "file": "PaperNotes/@clements2018aces.md"
               }
             }
           },
@@ -174,8 +174,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "56b0c8fabd98c7ab",
@@ -194,16 +193,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 525.5925903320312
+    "width": 527.5
   },
   "active": "294938873a3bc315",
   "lastOpenFiles": [
-    "Image Manipulation in Obsidian.md",
     "ARM Cortex-M.md",
+    "Memory Protection Unit.md",
+    "Image Manipulation in Obsidian.md",
     "PaperNotes/@mera2022dbox.md",
     "Least-privileged functions.md",
     "Data Pointer Scope Authenticaiton.md",
-    "Memory Protection Unit.md",
     "PaperNotes/@hu2016dataoriented.md",
     "LLVM.md",
     "PaperNotes/@kirth2022pkrusafe.md",
