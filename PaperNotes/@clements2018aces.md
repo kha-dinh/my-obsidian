@@ -18,6 +18,10 @@ The author simplify the region graph to fit into 8 regions restriction by mergin
 The user is allowed to chose merging policy.
 
 
+
 Cross-compartment function call sites are attached with the metadata containing allowed target. Cross-compartment  call is instrumented with compartment switch that call the MPU config routine. It store the current config into an MPU stack, then load the new MPU config. The MPU configs for each compartments are protected in the read-only memory.
 
 When the program transition into a new compartment, the previous stack is protected by a region, so the new compartment cannot access the stack before it. One challenge is to selectively allow access to the previous stack when there is data dependency. The author build a *whitelist* by running the program and catch the faulting address. Then, during runtime, the fault handler compare the access with the whitelist and *emulate* the access.
+
+
+
