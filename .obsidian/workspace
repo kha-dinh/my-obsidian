@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Research Ideas.md",
+            "file": "MTE-based Compartmentalization.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Research Ideas.md",
+                "file": "MTE-based Compartmentalization.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research Ideas.md",
+                "file": "MTE-based Compartmentalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research Ideas.md",
+                "file": "MTE-based Compartmentalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research Ideas.md"
+                "file": "MTE-based Compartmentalization.md"
               }
             }
           },
@@ -197,9 +197,9 @@
   },
   "active": "294938873a3bc315",
   "lastOpenFiles": [
+    "Research Ideas.md",
     "👁️👄👁️ Start Here.md",
     "Sleep.md",
-    "Research Ideas.md",
     "How Sleep Works.md",
     "PaperNotes/@milburn2021mitigating.md",
     "PaperNotes/@milburnmitigating.md",

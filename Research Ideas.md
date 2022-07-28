@@ -1,6 +1,7 @@
 - [[Pointer Tagging for Garbage Collection]]
 - [[Least-privileged functions]]
 - [[Automatic PIM Offloading]]
+- [[MTE-based Compartmentalization]]
 
 # Research questions
 ## Compartment policies
@@ -21,8 +22,4 @@ From the profiling information, it builds a graph
 One challenge is that heap objects are dynamically allocated and freed. This means that a function might access  
 
 Due to the dynamic nature of heap objects, it is difficult to track their life cycle.
-
-
-
-
 
