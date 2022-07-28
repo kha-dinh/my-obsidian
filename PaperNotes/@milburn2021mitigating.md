@@ -9,7 +9,7 @@ conference:
 The paper proposed the use of [[Pointer Masking]] for isolating data. One  key differences with previous [[Data Isolation]] is that data is   isolated based on their *type*, which removes the need for manual annotation or pointer analysis.
 
 
-Pointer masking scheme [[Software Fault Isolation]], but the instrumentation is performed on *pointer arithmetic*, in stead of load and store instructions.
+Pointer masking scheme is similar to [[Software Fault Isolation]], but the instrumentation is performed on *pointer arithmetic*, in stead of load and store instructions.
 
 In overview, the type-based allocator allocate object into *arenas* 
 of 4GB, identified by a pointer upper 32-bits. 4GB guard zones are inserted before and after the arena. The masking contain the pointer arithmetic such that it always generate new pointers that points to the contained arena or the guard zone.
