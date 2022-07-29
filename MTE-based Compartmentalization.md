@@ -15,3 +15,10 @@ MTE-based compartmentalization allows the efficient zero-copy data sharing betwe
 
 
 
+# Vs. Capacity
+To implement the same features on capacity,
+1. Domain entry / exit on all library functions
+2. All library allocation -> mte alloc
+- Does it have the same guarantees?
+	- Domain X can only access its memory -> no, it have can access the entire address space
+	- 
