@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MTE-based Compartmentalization.md",
+            "file": "Type Safety.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MTE-based Compartmentalization.md",
+                "file": "Type Safety.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MTE-based Compartmentalization.md",
+                "file": "Type Safety.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MTE-based Compartmentalization.md",
+                "file": "Type Safety.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MTE-based Compartmentalization.md"
+                "file": "Type Safety.md"
               }
             }
           },
@@ -197,6 +197,7 @@
   },
   "active": "294938873a3bc315",
   "lastOpenFiles": [
+    "MTE-based Compartmentalization.md",
     "Research Ideas.md",
     "👁️👄👁️ Start Here.md",
     "Sleep.md",
@@ -205,7 +206,6 @@
     "PaperNotes/@milburnmitigating.md",
     "PaperNotes/@vanderkouwe2018typeaftertype.md",
     "PaperNotes/@clements2018aces.md",
-    "Software Sanitizer.md",
-    "Sanitizer vs. Exploit mitigation.md"
+    "Software Sanitizer.md"
   ]
 }
